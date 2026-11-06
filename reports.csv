@@ -1,0 +1,21 @@
+report_id,submitted_at,report_text,human_label
+R001,2026-11-01 09:12,"Someone used a cloned voice of a famous TV presenter to promote a crypto giveaway in a video ad.",impersonation_public_figure
+R002,2026-11-01 09:40,"My grandmother got a call that sounded exactly like me asking for money for bail. I never made that call.",fraud_scam
+R003,2026-11-01 10:05,"A user uploaded my ex partner's voice from her voice notes and is making her say things she never said. She did not agree to this.",non_consensual_clone
+R004,2026-11-01 10:31,"Audio of a party leader saying the election date has moved is going viral. It sounds AI generated.",election_misinformation
+R005,2026-11-01 11:02,"The pronunciation of my brand name is wrong in the generated audio.",not_violating
+R006,2026-11-01 11:15,"A voice agent kept calling my business number with fake prize offers asking for card details.",fraud_scam
+R007,2026-11-01 11:48,"Someone made audio of a well known singer releasing a new song that she never recorded.",impersonation_public_figure
+R008,2026-11-01 12:20,"A generated audiobook is being used to harass a teacher by name with abusive language.",harassment_hate
+R009,2026-11-01 12:55,"Audio content involving a minor in a sexual context was shared using a voice from your platform.",child_safety
+R010,2026-11-01 13:10,"I think my account was charged twice this month.",not_violating
+R011,2026-11-01 13:42,"A channel is posting AI news reports with a cloned voice of a real journalist reading fake stories.",impersonation_public_figure
+R012,2026-11-01 14:05,"My colleague's voice was cloned from a work meeting recording and used in prank calls to clients.",non_consensual_clone
+R013,2026-11-01 14:30,"Robocalls in a cloned voice are telling people in my town not to vote on Thursday.",election_misinformation
+R014,2026-11-01 15:01,"Hundreds of identical promotional voice messages are being sent from new accounts.",spam_other
+R015,2026-11-01 15:22,"A generated podcast uses slurs targeting a religious group.",harassment_hate
+R016,2026-11-01 15:48,"Can you add more Welsh accents to the voice library?",not_violating
+R017,2026-11-01 16:10,"Someone pretending to be a bank used a calm cloned voice to ask customers to move money to a safe account.",fraud_scam
+R018,2026-11-01 16:35,"An adult is using a cartoon voice to message children in a game chat and ask them to keep it secret.",child_safety
+R019,2026-11-01 17:02,"A video uses a voice that sounds a bit like a famous actor but it might just be a similar voice.",impersonation_public_figure
+R020,2026-11-01 17:30,"Lots of accounts are reselling free credits using automated sign ups.",spam_other
